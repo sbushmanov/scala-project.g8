@@ -1,5 +1,6 @@
 package $package$
 
+import org.scalatest.funspec.AnyFunSpec
 import Functions._
 
 class FunctionsTest extends AnyFunSpec {
