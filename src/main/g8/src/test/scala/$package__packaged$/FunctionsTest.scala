@@ -9,7 +9,7 @@ class FunctionsTest extends AnyFunSpec {
 
     it("returns true if toUpper works and false otherwise") {
 
-      assert("HELLO", "hello".toUpper)
+      assert("HELLO" == "hello".toUpper)
 
     }
   }
